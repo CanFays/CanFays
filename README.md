@@ -7,7 +7,7 @@
 - 💬 Ask me about ton dernier bilan sanguin
 
 
-<p> 📫 Contact on: www.linkedin.com/in/candicefays  //  candifa.pro@murena.io </p>
+<p> 📫 Contact on: www.linkedin.com/in/candicefays  //  candifa@murena.io </p>
 <p>⚡ Fun fact: je suis aussi développeuse web !</p>
 
 <p align="left"> 
