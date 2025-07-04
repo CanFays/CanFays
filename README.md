@@ -7,8 +7,8 @@
 - 💬 Ask me about ton dernier bilan sanguin
 
 
-<p> 📫 Contact on: www.linkedin.com/in/candicefays  //  candifa@murena.io </p>
-<p>⚡ Fun fact: je suis aussi développeuse web !</p>
+<p> 📫 Contact on: www.linkedin.com/in/candicefays
+<p>⚡ Fun fact: je suis aussi dev web !</p>
 
 <p align="left"> 
 --- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTMLl5" width="40" height="40"/> </a>      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BOOTSTRAP" width="40" height="40"/> </a>      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPTt" width="40" height="40"/>      <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="HEROKU" width="40" height="40"/> </a>      <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="WEBPACK" width="40" height="40"/></a> ---
